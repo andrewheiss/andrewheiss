@@ -10,7 +10,7 @@ You can find me online at all these places:
 
 - 🏠 [Personal website and blog](https://www.andrewheiss.com/)
 - 👨‍👩‍👧‍👦 [Family blog](https://www.heissatopia.com/)
-- 🐘 <a rel="me" href="https://fediscience.org/@andrew">Mastodon</a>
+- 🐘 <a rel="nofollow me" href="https://fediscience.org/@andrew">Mastodon</a>
 - 🐦 [Twitter](https://twitter.com/andrewheiss)
 - 🎥 [YouTube](https://www.youtube.com/andrewheiss)
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrewheiss)

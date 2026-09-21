@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I’m an assistant professor in the Department of Public Management and Policy at the Andrew Young School of Policy Studies at Georgia State University. I research nonprofits and NGOs, human rights, public policy/administration, and causal inference.
+I’m an assistant professor of international politics and policy at Georgetown University in Qatar. I research nonprofits and NGOs, human rights, public policy/administration, and causal inference.
 
 I teach classes about R, data science, data visualization, and causal inference (as well as non-technical classes on economics nonprofits, and public administration). [All my course materials](https://www.andrewheiss.com/teaching/) are open source, Creative Commons-licensed, and free!
 
